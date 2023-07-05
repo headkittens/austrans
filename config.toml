@@ -1,0 +1,4 @@
+baseURL = 'https://austrans.org/'
+languageCode = 'en-au'
+title = 'AusTrans'
+theme = 'ananke'
